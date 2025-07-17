@@ -1,0 +1,3 @@
+pio_esp_controller/.*
+sdkconfig.esp32dev
+pio_esp_controller/lib/
